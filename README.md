@@ -1,0 +1,1 @@
+This is the Repo for all of the work I will be doing for the Introduction to Ruby Programming Book offered by Launch School. It will include notes on the chapters, if I take notes on that chapter, as well as the exercises for each chapter.
